@@ -1,5 +1,5 @@
 import { QueryClient, QueryClientProvider } from "react-query";
-import Task1 from "./components/Task 1/Task1";
+import Task1 from "./Task 1/Task1";
 const queryClient = new QueryClient();
 
 function App() {
